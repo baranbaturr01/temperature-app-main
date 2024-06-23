@@ -1,0 +1,1037 @@
+[
+  {
+    "name": "Istanbul",
+    "temperature": "8",
+    "unit": "celcius"
+  },
+  {
+    "name": "Prag",
+    "temperature": "10",
+    "unit": "celcius"
+  },
+  {
+    "name": "Los Angeles",
+    "temperature": "9",
+    "unit": "celcius"
+  },
+  {
+    "name": "Kiev",
+    "temperature": "-5",
+    "unit": "celcius"
+  },
+  {
+    "name": "Ankara",
+    "temperature": "14",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Washington, D.C.",
+    "temperature": "28",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Paris",
+    "temperature": "10",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Tokyo",
+    "temperature": "11",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Moscow",
+    "temperature": "32",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Berlin",
+    "temperature": "33",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Rome",
+    "temperature": "5",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "London",
+    "temperature": "2",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Beijing",
+    "temperature": "-13",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Bras\u00edlia",
+    "temperature": "10",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Cairo",
+    "temperature": "9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "New Delhi",
+    "temperature": "24",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Canberra",
+    "temperature": "-4",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Ottawa",
+    "temperature": "34",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Brussels",
+    "temperature": "16",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Amsterdam",
+    "temperature": "34",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Madrid",
+    "temperature": "5",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Athens",
+    "temperature": "14",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Seoul",
+    "temperature": "28",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Oslo",
+    "temperature": "15",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Stockholm",
+    "temperature": "25",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Helsinki",
+    "temperature": "32",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Lisbon",
+    "temperature": "16",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Dublin",
+    "temperature": "39",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Vienna",
+    "temperature": "-19",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Bern",
+    "temperature": "20",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Budapest",
+    "temperature": "40",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Warsaw",
+    "temperature": "-8",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Bangkok",
+    "temperature": "19",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Hanoi",
+    "temperature": "-12",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Jakarta",
+    "temperature": "-6",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Islamabad",
+    "temperature": "5",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Manila",
+    "temperature": "-18",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Lima",
+    "temperature": "31",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Mexico City",
+    "temperature": "32",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Nairobi",
+    "temperature": "23",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Riyadh",
+    "temperature": "10",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Zurich",
+    "temperature": "27",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Montevideo",
+    "temperature": "-15",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Caracas",
+    "temperature": "26",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Wellington",
+    "temperature": "-10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Canberra",
+    "temperature": "39",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Havana",
+    "temperature": "-5",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kingston",
+    "temperature": "29",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Nassau",
+    "temperature": "39",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Panama City",
+    "temperature": "10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Port of Spain",
+    "temperature": "-15",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Quito",
+    "temperature": "-15",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "San Jose",
+    "temperature": "-19",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Santo Domingo",
+    "temperature": "7",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Tegucigalpa",
+    "temperature": "-19",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "San Salvador",
+    "temperature": "8",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Guatemala City",
+    "temperature": "-6",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Bogot\u00e1",
+    "temperature": "26",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Bras\u00edlia",
+    "temperature": "7",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Asunci\u00f3n",
+    "temperature": "-10",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Paramaribo",
+    "temperature": "-3",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Georgetown",
+    "temperature": "-9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Buenos Aires",
+    "temperature": "-2",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Santiago",
+    "temperature": "35",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Ljubljana",
+    "temperature": "26",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Tallinn",
+    "temperature": "15",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Riga",
+    "temperature": "33",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Vilnius",
+    "temperature": "24",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Nicosia",
+    "temperature": "2",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Valletta",
+    "temperature": "39",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Podgorica",
+    "temperature": "-2",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Sarajevo",
+    "temperature": "13",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Zagreb",
+    "temperature": "33",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Skopje",
+    "temperature": "30",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Belgrade",
+    "temperature": "8",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Tirana",
+    "temperature": "-8",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Chisinau",
+    "temperature": "-17",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Yerevan",
+    "temperature": "-16",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Tbilisi",
+    "temperature": "36",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Baku",
+    "temperature": "-8",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Ashgabat",
+    "temperature": "36",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Dushanbe",
+    "temperature": "-9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Bishkek",
+    "temperature": "13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Almaty",
+    "temperature": "23",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Nur-Sultan",
+    "temperature": "10",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Ulaanbaatar",
+    "temperature": "33",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Kathmandu",
+    "temperature": "23",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Thimphu",
+    "temperature": "5",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Male",
+    "temperature": "13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Colombo",
+    "temperature": "14",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Dhaka",
+    "temperature": "30",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kabul",
+    "temperature": "-7",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Tehran",
+    "temperature": "-8",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Baghdad",
+    "temperature": "26",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Damascus",
+    "temperature": "17",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Amman",
+    "temperature": "0",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Beirut",
+    "temperature": "16",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Jerusalem",
+    "temperature": "-10",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Nicosia",
+    "temperature": "-13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kuwait City",
+    "temperature": "34",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Manama",
+    "temperature": "18",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Doha",
+    "temperature": "-15",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Abu Dhabi",
+    "temperature": "16",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Muscat",
+    "temperature": "15",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Sana'a",
+    "temperature": "-12",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Hargeisa",
+    "temperature": "37",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Mogadishu",
+    "temperature": "34",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Khartoum",
+    "temperature": "10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Juba",
+    "temperature": "4",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Brazzaville",
+    "temperature": "4",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kinshasa",
+    "temperature": "-7",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kigali",
+    "temperature": "39",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Bujumbura",
+    "temperature": "19",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kampala",
+    "temperature": "-12",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Lusaka",
+    "temperature": "22",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Harare",
+    "temperature": "-2",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Gaborone",
+    "temperature": "13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Maseru",
+    "temperature": "-5",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Mbabane",
+    "temperature": "20",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Antananarivo",
+    "temperature": "14",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Port Louis",
+    "temperature": "-15",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Moroni",
+    "temperature": "-1",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Victoria",
+    "temperature": "18",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Mahe",
+    "temperature": "37",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Libreville",
+    "temperature": "14",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Malabo",
+    "temperature": "9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "N'Djamena",
+    "temperature": "37",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Bangui",
+    "temperature": "-10",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Niamey",
+    "temperature": "3",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Ouagadougou",
+    "temperature": "-10",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Bamako",
+    "temperature": "26",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Conakry",
+    "temperature": "23",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Freetown",
+    "temperature": "-3",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Monrovia",
+    "temperature": "21",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Banjul",
+    "temperature": "-20",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Dakar",
+    "temperature": "-11",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Praia",
+    "temperature": "12",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Bissau",
+    "temperature": "-9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Yaounde",
+    "temperature": "-9",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Douala",
+    "temperature": "-16",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Lome",
+    "temperature": "24",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Accra",
+    "temperature": "9",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Abidjan",
+    "temperature": "37",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Nouakchott",
+    "temperature": "5",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Nouakchott",
+    "temperature": "-6",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Niamey",
+    "temperature": "27",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kano",
+    "temperature": "16",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Addis Ababa",
+    "temperature": "0",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Dar es Salaam",
+    "temperature": "-17",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Maputo",
+    "temperature": "-19",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Lilongwe",
+    "temperature": "40",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Luanda",
+    "temperature": "21",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Gitega",
+    "temperature": "-14",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kinshasa",
+    "temperature": "30",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kigali",
+    "temperature": "15",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Khartoum",
+    "temperature": "37",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Juba",
+    "temperature": "-13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Kampala",
+    "temperature": "-20",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Nairobi",
+    "temperature": "11",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Mogadishu",
+    "temperature": "9",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Djibouti",
+    "temperature": "3",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Asmara",
+    "temperature": "29",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Hargeisa",
+    "temperature": "25",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Mogadishu",
+    "temperature": "30",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Khartoum",
+    "temperature": "22",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Juba",
+    "temperature": "-2",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Kigali",
+    "temperature": "28",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Bujumbura",
+    "temperature": "19",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kampala",
+    "temperature": "24",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Lusaka",
+    "temperature": "-5",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Harare",
+    "temperature": "-15",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Gaborone",
+    "temperature": "34",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Maseru",
+    "temperature": "-17",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Mbabane",
+    "temperature": "-8",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Antananarivo",
+    "temperature": "-5",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Port Louis",
+    "temperature": "23",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Moroni",
+    "temperature": "-11",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Victoria",
+    "temperature": "35",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Mahe",
+    "temperature": "36",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Libreville",
+    "temperature": "2",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Malabo",
+    "temperature": "11",
+    "unit": "Celsius"
+  },
+  {
+    "name": "N'Djamena",
+    "temperature": "32",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Bangui",
+    "temperature": "-20",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Niamey",
+    "temperature": "-13",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Ouagadougou",
+    "temperature": "33",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Bamako",
+    "temperature": "-1",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Conakry",
+    "temperature": "38",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Freetown",
+    "temperature": "-16",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Monrovia",
+    "temperature": "-7",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Banjul",
+    "temperature": "30",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Dakar",
+    "temperature": "38",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Praia",
+    "temperature": "-4",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Bissau",
+    "temperature": "6",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Yaounde",
+    "temperature": "30",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Douala",
+    "temperature": "10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Lome",
+    "temperature": "11",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Accra",
+    "temperature": "12",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Abidjan",
+    "temperature": "15",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Nouakchott",
+    "temperature": "-2",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Nouakchott",
+    "temperature": "-20",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Niamey",
+    "temperature": "30",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Kano",
+    "temperature": "18",
+    "unit": "Kelvin"
+  },
+  {
+    "name": "Addis Ababa",
+    "temperature": "10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Dar es Salaam",
+    "temperature": "25",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Maputo",
+    "temperature": "-10",
+    "unit": "Celsius"
+  },
+  {
+    "name": "Lilongwe",
+    "temperature": "8",
+    "unit": "Fahrenheit"
+  },
+  {
+    "name": "Luanda",
+    "temperature": "0",
+    "unit": "Celsius"
+  }
+]
